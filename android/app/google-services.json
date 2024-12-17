@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160391890058",
+    "project_id": "research-pal-810ce",
+    "storage_bucket": "research-pal-810ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160391890058:android:7e6d1c46fda6ad65efd973",
+        "android_client_info": {
+          "package_name": "com.example.research_memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENTOxRQlZkzlhFgst7sjx3Xo8oyx7RIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
